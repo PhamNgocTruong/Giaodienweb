@@ -1,0 +1,48 @@
+.header{
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+.header .logo{
+	margin-right: 200px;
+}
+.header .logo img{
+	margin-top: 30px;
+
+}
+.header .vanban{
+	margin-right: 50px;
+}
+.header .vanban h2{
+	color: #01a54f;
+}
+.header .vanban h3{
+	padding-left: 120px;
+	color: #99ba13;
+}
+.header .right{
+	float: right;
+	width: 290px;
+}
+.header .right img{
+	float: right;
+}
+.header .right input{
+	margin-left: 70px;
+	margin-top: 10px;
+}
+footer{
+	background-color: #00a551;
+	color: white;
+	padding-top: 5px;
+	padding-left: 150px;
+}
+span{
+	display: flex;
+}
+p{
+	margin-right: 500px;
+}
+img{
+	height: 40px;
+}
